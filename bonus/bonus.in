@@ -1,0 +1,73 @@
+adauga_student - licenta - Lenuta
+adauga_student - licenta - Antonia
+adauga_student - licenta - Cosmina
+adauga_student - licenta - Marcel
+adauga_student - licenta - Ciprian
+adauga_student - licenta - Felix
+adauga_student - licenta - Cristian
+adauga_student - licenta - Toma
+adauga_student - licenta - Amalia
+adauga_student - licenta - Teofil
+adauga_student - licenta - Costache
+adauga_student - licenta - Ionel
+adauga_student - licenta - Marcel
+adauga_student - master - Valentin
+adauga_student - master - Iolanda
+adauga_student - master - Karen
+adauga_student - master - Emanoil
+adauga_student - master - Costel
+adauga_student - master - Sorin
+adauga_student - master - Anton
+adauga_student - master - Bianca
+citeste_mediile
+posteaza_mediile
+contestatie - Anton - 8.1
+contestatie - Marcel - 8.8
+contestatie - Valentin - 8.1
+contestatie - Iolanda - 9.7
+contestatie - Ciprian - 10.0
+adauga_curs - licenta - Algaed - 4
+adauga_curs - licenta - Electrotenica - 3
+adauga_curs - licenta - POO - 4
+adauga_curs - licenta - MSP - 4
+adauga_curs - master - Analiza - 3
+adauga_curs - master - IOCLA - 3
+adauga_curs - master - SO - 2
+posteaza_mediile
+adauga_preferinte - Lenuta - Algaed
+adauga_preferinte - Antonia - Algaed
+adauga_preferinte - Cosmina - POO
+adauga_preferinte - Marcel - Electrotenica
+adauga_preferinte - Ciprian - Algaed
+adauga_preferinte - Felix - Algaed - POO
+adauga_preferinte - Cristian - Electrotenica
+adauga_preferinte - Toma - Algaed - Electrotenica - POO
+adauga_preferinte - Amalia - Algaed - Electrotenica - POO
+adauga_preferinte - Teofil - MSP
+adauga_preferinte - Costache - Electrotenica
+adauga_preferinte - Ionel - Algaed
+adauga_preferinte - Valentin - Analiza
+adauga_preferinte - Iolanda - IOCLA
+adauga_preferinte - Karen - Analiza
+adauga_preferinte - Emanoil - SO
+adauga_preferinte - Costel - IOCLA
+adauga_preferinte - Bianca - SO
+adauga_preferinte - Sorin - Analiza
+adauga_preferinte - Anton - Analiza - IOCLA
+repartizeaza
+posteaza_curs - Algaed
+posteaza_curs - Electrotenica
+posteaza_curs - POO
+posteaza_curs - MSP
+posteaza_curs - Analiza
+posteaza_curs - IOCLA
+posteaza_curs - SO
+posteaza_student - Anton
+posteaza_student - Iolanda
+posteaza_student - Antonia
+posteaza_student - Bianca
+posteaza_student - Antonia
+posteaza_student - Cristian
+posteaza_student - Emanoil
+posteaza_student - Ionel
+posteaza_student - Karen

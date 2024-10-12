@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TestMain" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-01-07T18:57:03" hostname="DESKTOP-JITO283" time="0.135">
+  <properties/>
+  <testcase name="coliziuniCicluStudiiContestatii10()" classname="org.example.TestMain" time="0.05"/>
+  <testcase name="coliziuniMedie08()" classname="org.example.TestMain" time="0.006"/>
+  <testcase name="toateFunctionalitatile12()" classname="org.example.TestMain" time="0.014"/>
+  <testcase name="inroleazaSimplu05()" classname="org.example.TestMain" time="0.007"/>
+  <testcase name="posteazaMedii01()" classname="org.example.TestMain" time="0.004"/>
+  <testcase name="posteazaMediiContestatii02()" classname="org.example.TestMain" time="0.005"/>
+  <testcase name="posteazaMediiContestatii03()" classname="org.example.TestMain" time="0.006"/>
+  <testcase name="posteazaMediiContestatii04()" classname="org.example.TestMain" time="0.005"/>
+  <testcase name="inroleazaCicluStudiiContestatii07()" classname="org.example.TestMain" time="0.007"/>
+  <testcase name="inroleazaCicluStudii06()" classname="org.example.TestMain" time="0.007"/>
+  <testcase name="coliziuniCicluStudii09()" classname="org.example.TestMain" time="0.01"/>
+  <testcase name="exceptieSimplu11()" classname="org.example.TestMain" time="0.005"/>
+  <system-out><![CDATA[./src/main/resources/10-coliziuni_ciclu_studii_contestatii/10-coliziuni_ciclu_studii_contestatii.in
+./src/main/resources/08-coliziuni_medie/08-coliziuni_medie.in
+./src/main/resources/12-toate_functionalitatile/12-toate_functionalitatile.in
+./src/main/resources/05-inroleaza_simplu/05-inroleaza_simplu.in
+./src/main/resources/01-posteaza_medii/01-posteaza_medii.in
+./src/main/resources/02-posteaza_medii_contestatii/02-posteaza_medii_contestatii.in
+./src/main/resources/03-posteaza_medii_contestatii/03-posteaza_medii_contestatii.in
+./src/main/resources/04-posteaza_medii_contestatii/04-posteaza_medii_contestatii.in
+./src/main/resources/07-inroleaza_ciclu_studii_contestatii/07-inroleaza_ciclu_studii_contestatii.in
+./src/main/resources/06-inroleaza_ciclu_studii/06-inroleaza_ciclu_studii.in
+./src/main/resources/09-coliziuni_ciclu_studii/09-coliziuni_ciclu_studii.in
+./src/main/resources/11-exceptie_simplu/11-exceptie_simplu.in
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
