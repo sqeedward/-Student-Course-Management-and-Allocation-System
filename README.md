@@ -1,6 +1,5 @@
 
 ## **NUME: BRUMA GEORGE-SEBASTIAN**
-## **TITLU: TEMA2-POO**
 
 ## **Introducere**
 Tema are ca scop implementarea unui sistem informatic pentru gestiunea si repartizarea
